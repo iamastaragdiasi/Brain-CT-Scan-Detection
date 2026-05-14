@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+tensorflow
+pillow  # If you're handling images
+python-multipart  # For file uploads
+numpy
